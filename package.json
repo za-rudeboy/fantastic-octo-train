@@ -1,0 +1,15 @@
+{
+    "name": "sanewsrssconsumer",
+    "description": "Consumes RSS feeds from SA news sites",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "app/app.js",
+    "dependencies": {
+        "chai": "4.0.2",
+        "xml2js": "0.4.17",
+        "unirest": "0.5.1"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}

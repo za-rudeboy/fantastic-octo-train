@@ -1,0 +1,257 @@
+{
+	"rss": {
+		"$": {
+			"version": "2.0"
+		},
+		"channel": {
+			"title": "News24 Top Stories",
+			"link": "http: //www.news24.com/",
+			"generator": "Argotic Syndication Framework, http://www.codeplex.com/argotic",
+			"docs": "http://www.rssboard.org/rss-specification",
+			"lastBuildDate": "Sun, 18 Jun 2017 11:48:17 +0200",
+			"pubDate": "Sun, 18 Jun 2017 11:32:29 +0200",
+			"item": [{
+					"title": "News24.com | The people must show leaders the door - Mbeki",
+					"description": "Political leaders who have \"overstayed their welcome\"must be shown the door by their own people, former President Thabo Mbeki has said.",
+					"link": "http://www.news24.com/SouthAfrica/News/the-people-must-show-leaders-the-door-mbeki-20170618",
+					"pubDate": "Sun, 18 Jun 2017 11:32:29 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Why Ben Ngubane quit",
+					"description": "Interim leadership of Eskom was subject of high-stakes standoff between public enterprises minister and former chairperson.",
+					"link": "http://www.news24.com/SouthAfrica/News/why-ben-quit-20170617",
+					"pubDate": "Sun, 18 Jun 2017 06:36:14 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Jackson battles rogue MPs",
+					"description": "ANC MPs who have asked for a broader state capture probe have stood their ground against their chief whip.",
+					"link": "http://www.news24.com/SouthAfrica/News/jackson-battles-rogue-mps-20170618-2",
+					"pubDate": "Sun, 18 Jun 2017 06:01:33 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Fin24.com | Profit Trading founder arrested",
+					"description": "A Pietermaritzburg businessman who founded alleged Ponzi scheme Profit Trading was arrested by the Special Commercial Crimes Unit on allegations of fraud at a Sandton Hotel.",
+					"link": "http://www.fin24.com/Economy/profit-trading-founder-arrested-20170616",
+					"pubDate": "Sun, 18 Jun 2017 09:02:08 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/fin24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Fin24.com | Legal firms ripping off state - Ngoepe",
+					"description": "Most of the R1bn government has spent on legal services in the past year was never acted upon.",
+					"link": "http://www.fin24.com/Economy/legal-firms-ripping-off-state-ngoepe-20170618-2",
+					"pubDate": "Sun, 18 Jun 2017 10:13:42 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/fin24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Channel24.co.za | Celebrities react to Bill Cosby mistrial",
+					"description": "Celebrities have reacted strongly to the mistrial declared in Bill Cosby's trial on sexual assault charges.",
+					"link": "http://www.channel24.co.za/TV/News/celebrities-react-to-bill-cosby-mistrial-20170618",
+					"pubDate": "Sun, 18 Jun 2017 10:59:42 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/channel24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Sport24.co.za | Action hots up in Rugby Challenge",
+					"description": "The action is hotting up after a fascinating round eight of the SuperSport Rugby Challenge.",
+					"link": "http://www.sport24.co.za/Rugby/action-hots-up-in-rugby-challenge-20170618",
+					"pubDate": "Sun, 18 Jun 2017 10:43:17 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/sport24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Navy stops search for 7 missing sailors after bodies found",
+					"description": "The commander of the US Navy's 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a merchant ship in waters off Japan",
+					"link": "http://www.news24.com/World/News/navy-stops-search-for-7-missing-sailors-after-bodies-found-20170618",
+					"pubDate": "Sun, 18 Jun 2017 09:43:49 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Three killed in blast at upscale Bogota mall",
+					"description": "Three people have been killed and nine others have been wounded when an explosion rocked an upscale Bogota mall, authorities said, as the country's only active guerrilla group condemned the incident.",
+					"link": "http://www.news24.com/World/News/three-killed-in-blast-at-upscale-bogota-mall-20170618",
+					"pubDate": "Sun, 18 Jun 2017 09:43:49 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Channel24.co.za | Reports: Beyoncé and Jay Z  welcome twins",
+					"description": "According to numerous reports Beyoncé and Jay Z have welcomed their twins.",
+					"link": "http://www.channel24.co.za/Gossip/News/reports-beyonce-and-jay-z-welcome-twins-20170618",
+					"pubDate": "Sun, 18 Jun 2017 08:09:57 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/channel24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Excommunicating mobsters? Vatican eyes new legal doctrine",
+					"description": "The Vatican wants to develop a new doctrine that calls for excommunicating Catholics for corruption and mafia association.",
+					"link": "http://www.news24.com/World/News/excommunicating-mobsters-vatican-eyes-new-legal-doctrine-20170617",
+					"pubDate": "Sun, 18 Jun 2017 07:40:11 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Trump's Washington hotel saw almost $20m in revenue",
+					"description": "President Donald Trump's financial disclosure shows his Florida resort is earning more money than it had previously.",
+					"link": "http://www.news24.com/World/News/trumps-washington-hotel-saw-almost-20m-in-revenue-20170618",
+					"pubDate": "Sun, 18 Jun 2017 07:40:11 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | UPDATE: Huge Portugal forest fires kill 43, injure scores",
+					"description": "Raging forest fires in central Portugal have killed at least 43 people, most of whom burnt to death in their cars, and injured scores of others, the government  has said.",
+					"link": "http://www.news24.com/World/News/huge-portugal-forest-fire-kills-25-injures-16-20170618",
+					"pubDate": "Sun, 18 Jun 2017 10:33:09 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Tensions flare in Zambia as critics see slide to 'dictatorship'",
+					"description": "Nearly a year after coming to power in a contested election, Zambian President Edgar Lungu is facing a growing chorus of criticism over his government's moves to clamp down on dissent.",
+					"link": "http://www.news24.com/Africa/News/tensions-flare-in-zambia-as-critics-see-slide-to-dictatorship-20170618",
+					"pubDate": "Sun, 18 Jun 2017 07:32:26 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Fin24.com | PPF vows to head to court to challenge FICA",
+					"description": "The Progressive Professionals’ Forum has promised to challenge the recent signing of the Financial Intelligence Centre Amendment Act by Finance Minister Malusi Gigaba.",
+					"link": "http://www.fin24.com/Economy/ppf-vows-to-head-to-court-to-challenge-fica-20170616",
+					"pubDate": "Sun, 18 Jun 2017 10:31:46 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/fin24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Sport24.co.za | WRAP: June Internationals",
+					"description": "A comprehensive wrap of all of the weekend's June Internationals from around the rugby globe.",
+					"link": "http://www.sport24.co.za/Rugby/wrap-june-internationals-20170615-3",
+					"pubDate": "Sun, 18 Jun 2017 06:20:28 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/sport24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "Fin24.com | Gigaba goes into overdrive",
+					"description": "The latest credit downgrade and announcement of an official recession have triggered a long list of interventions to be spearheaded by Finance Minister Malusi Gigaba.",
+					"link": "http://www.fin24.com/Economy/gigaba-goes-into-overdrive-20170618-3",
+					"pubDate": "Sun, 18 Jun 2017 06:17:32 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/fin24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Dlamini-Zuma: I’m ready to lead",
+					"description": "ANC presidential candidate Nkosazana Dlamini-Zuma used an invitation by the ANC Youth League in Limpopo to finally accept nomination to be president.",
+					"link": "http://www.news24.com/SouthAfrica/News/dlamini-zuma-im-ready-to-lead-20170618-2",
+					"pubDate": "Sun, 18 Jun 2017 06:01:44 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | Mashatile endorses Ramaphosa",
+					"description": "Deputy President Cyril Ramaphosa’s presidential bid got a boost yesterday when Gauteng ANC chair Paul Mashatile endorsed him as a leader who will instill confidence and protect the country from all forms of capture.",
+					"link": "http://www.news24.com/SouthAfrica/News/mashatile-endorses-ramaphosa-20170617",
+					"pubDate": "Sun, 18 Jun 2017 06:01:41 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}, {
+					"title": "News24.com | ANC shuts door on stalwarts",
+					"description": "The ANC intends to proceed with the planned consultative conference scheduled as part of the extended national policy conference later this month even without the party’s disgruntled stalwarts and veterans.",
+					"link": "http://www.news24.com/SouthAfrica/News/anc-shuts-door-on-stalwarts-20170617",
+					"pubDate": "Sun, 18 Jun 2017 06:01:34 +0200",
+					"enclosure": {
+						"$": {
+							"url": "http://scripts.24.co.za/img/sites/news24.png",
+							"length": "1",
+							"type": "image/png"
+						}
+					}
+				}
+			]
+		}
+	}
+}
