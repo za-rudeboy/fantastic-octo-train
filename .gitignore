@@ -4,6 +4,9 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+launch.json
+settings.json
+tasks.json
 
 # Runtime data
 pids

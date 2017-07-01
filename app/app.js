@@ -12,7 +12,7 @@ unirest.get('http://feeds.news24.com/articles/news24/TopStories/rss')
       .then(news24Parser)
       .then((data) => {
         allFeeds.push(data)
-        writeFile('fantastic-octo-train/app/feed.json', allFeeds)
+        writeFile('app/feed.json', allFeeds)
       })
   });
 
